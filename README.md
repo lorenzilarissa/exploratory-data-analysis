@@ -17,7 +17,7 @@ In this project, I've used Python libraries such as NumPy, Pandas, Matplotlib, S
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: git clone [(https://github.com/lorenzilarissa/exploratory-data-analysis).git](https://github.com/lorenzilarissa/nltk-sentiment-analysis/)
+1. Clone the repository: git clone [https://github.com/lorenzilarissa/exploratory-data-analysis.git](https://github.com/lorenzilarissa/nltk-sentiment-analysis/)
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the Python script: `python analysis_script.py`
 
