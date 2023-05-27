@@ -4,7 +4,7 @@ This project showcases my abilities in statistics, data science, and machine lea
 
 ## Project Overview
 
-In this project, I have utilized Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, and SciPy to perform data analysis and machine learning tasks. The main components of the project include:
+In this project, I've used Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, and SciPy to perform data analysis and machine learning tasks. The main components of the project include:
 
 1. Basic Statistics: Calculation of mean, median, mode, standard deviation, and variance of the dataset.
 2. Histogram: Visualization of the dataset's distribution using a histogram with overlaid mean, median, and mode.
@@ -17,7 +17,7 @@ In this project, I have utilized Python libraries such as NumPy, Pandas, Matplot
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your_username/project.git`
+1. Clone the repository: `git clone [https://github.com/your_username/project](https://github.com/lorenzilarissa/exploratory-data-analysis/)`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the Python script: `python analysis_script.py`
 
