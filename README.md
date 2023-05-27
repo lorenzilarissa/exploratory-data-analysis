@@ -17,7 +17,7 @@ In this project, I've used Python libraries such as NumPy, Pandas, Matplotlib, S
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `[git clone [https://github.com/your_username/project](https://github.com/lorenzilarissa/exploratory-data-analysis/)](https://github.com/lorenzilarissa/exploratory-data-analysis)`
+1. Clone the repository: `https://github.com/lorenzilarissa/exploratory-data-analysis`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the Python script: `python analysis_script.py`
 
